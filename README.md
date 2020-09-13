@@ -11,13 +11,13 @@ Proje içerisinde temel olarak iki adet dosya vardır. Bunlardan ilki olan **hir
 
 ## Malzemeler
 
-1 Adet Arduino Uno
-1 Adet HC-SR04 Ultrasonik Mesafe Ölçer
-1 Adet Buzzer
-1 Adet USB TypeB to TypeA conventer
-1 Adet Powerbank veya Telefon şarj cihazı
-1 Adet Mini Boy Breadboard
-Çeşitli sayıda Erkek-Erkek Jumper Kablo
+ - 1 Adet Arduino Uno 
+ - 1 Adet HC-SR04 Ultrasonik Mesafe Ölçer 
+ - 1 Adet Buzzer 
+ - 1 Adet USB TypeB to TypeA conventer 
+ - 1 Adet Powerbank veya Telefon şarj cihazı 
+ - 1 Adet Mini Boy Breadboard 
+ - Çeşitli sayıda Erkek-Erkek Jumper Kablo
 
 ## Değişkenler
 
